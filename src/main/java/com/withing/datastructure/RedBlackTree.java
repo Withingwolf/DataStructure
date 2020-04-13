@@ -217,7 +217,7 @@ public class RedBlackTree {
      * 4.左右子树均有
      */
     public static RedBlackTree remove(int value, RedBlackTree p) {
-
+        return null;
     }
 
     public static RedBlackTree root(RedBlackTree node) {
